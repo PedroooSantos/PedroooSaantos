@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @pedroooSaantos
+• 👋 Hi, I’m @pedroooSaantos
 🚀 Desenvolvedor web com foco em aplicações React modernas e responsivas.
 
 🛠️ Habilidades:
