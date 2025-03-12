@@ -1,7 +1,10 @@
 - 👋 Hi, I’m @pedroooSaantos
-- 👀 I’m interested in aprender a arte da programação
-- 🌱 I’m currently learning algumas linguagens de programação
-<!---
-pedroooSaantos/pedroooSaantos is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🚀 Desenvolvedor web com foco em aplicações React modernas e responsivas.
+
+🛠️ Habilidades:
+• Desenvolvimento de interfaces interativas e acessíveis
+• Criação de páginas responsivas otimizadas para todos os dispositivos
+• Implementação de layouts modernos utilizando Flexbox e Grid
+• Integração de bibliotecas de componentes e sistemas de design
+
+📚 Aprendizado contínuo em UX/UI e novas tecnologias frontend para entregar experiências digitais de alta qualidade.
